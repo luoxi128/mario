@@ -1,0 +1,343 @@
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>超级玛丽音效大全</title>
+    <meta name="format-detection" content="telephone=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    
+    <link rel="stylesheet" href="//mms-static.cdn.bcebos.com/voiceweb/static/asset/landingpage/museum/index.6ec5b94e.css?v=20200918171358"/>
+
+    <script src="https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/ecom/esl/2-1-4/esl.js"></script>
+    <script src="//mms-static.cdn.bcebos.com/voiceweb/static/asset/common/libs/zepto.min.js"></script>
+    <script src="//mms-static.cdn.bcebos.com/voiceweb/static/asset/common/libs/aio.js"></script>
+    <div id='wx_pic' style='margin:0 auto;display:none;'>
+        
+    <img src="http://mms-res.cdn.bcebos.com/voice/soundmuseum/e8b685e7baa7e78e9be4b8bd.bfe69165.jpg" alt="百度活动"/>
+
+    </div>
+</head>
+<body>
+    <div id="viewport" class="result-op">
+        
+<div class="voice-audiobook-museum-wrapper">
+    <div class="voice-audiobook-museum">
+        <div class="voice-audiobook-museum-header-wrapper" data-click="{'mod':'museum_header'}">
+            <div class="header-info-wrapper" data-click="{'act':'b_header'}">
+                <div class="img-wrapper">
+                    <img class="img" src="http://mms-res.cdn.bcebos.com/voice/soundmuseum/e8b685e7baa7e78e9be4b8bd.bfe69165.jpg" alt="img" data-click="{'act':'b_headerimg'}">
+                </div>
+                <div class="title-wrapper">
+                    <div class="title">
+                        <p class="title-content">超级玛丽音效大全</p>
+                        <a class="share-btn OP_LOG_BTN" id="share-btn" href="javascript:void(0);" data-click="{'act':'b_share_press'}" data-title="分享"></a>
+                    </div>
+                    <div class="like-wrapper">
+                        <a href="javascript:void(0);" class="like-button OP_LOG_BTN"  data-click="{'act':'b_like_btn'}" data-title="赞">
+                            <i class="like-plus-one">+1</i>
+                        </a>
+                        <span class="like-text-wrapper">
+                            <span class="variable">----</span><span class="constant">人喜欢</span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="panel-wrapper" data-click="{'mod':'museum_panel'}">
+                <div class="panel panel-placeholder-padding">
+                    <div class="panel-btn-wrapper">
+                        <a href="javascript:void(0);" data-click="{'act':'b_prev_btn'}" data-title="上一首" class="panel-btn panel-prev panel-unable OP_LOG_BTN"><span class="panel-prev-icon"></span></a>
+                        <a href="javascript:void(0);" data-click="{'act':'b_play_btn'}" data-title="播放" class="panel-btn panel-play OP_LOG_BTN" data-id="0"><span class="panel-play-icon"></span></a>
+                        <a href="javascript:void(0);" data-click="{'act':'b_next_btn'}" data-title="下一首" class="panel-btn panel-next panel-unable OP_LOG_BTN"><span class="panel-next-icon"></span></a>
+                    </div>
+                    <div class="panel-placeholder"><span class="panel-plackholder-span">点击播放列表直接播放</span></div>
+                    <div class="panel-title-wrapper" style="display: none;" data-click="{'act':'b_panel_title'}">
+                        <div class="panel-title-scroll">
+                            <div>
+                                <span class="panel-title"></span>
+                                <span class="panel-title-clone"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="residue-time" style="display: none;" data-click="{'act':'b_residuetime'}">
+                        <span class="variable"></span>
+                    </div>
+                </div>
+                <div class="progress-wrapper">
+                    <div class="cache"></div>
+                    <div class="progress">
+                        <span class="progress-bar"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="voice-audiobook-museum-list-wrapper" data-click="{'mod':'museum_list'}">
+                                                <div class="list-group " data-group-index="0">
+                            <div class="item  first-item" data-id="0">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_0'}">1</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_0'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_0'}" data-title="列表">超级玛丽音效</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_0'}"><span class="constant">热度</span><span class="variable">9253</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_0'}"><span class="variable">00:40</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_0'}"><span class="variable">1.0MB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="1">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_1'}">2</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_1'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_1'}" data-title="列表">超级玛丽过关</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_1'}"><span class="constant">热度</span><span class="variable">8375</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_1'}"><span class="variable">00:11</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_1'}"><span class="variable">177.2KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="2">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_2'}">3</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_2'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_2'}" data-title="列表">超级玛丽第二关音效</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_2'}"><span class="constant">热度</span><span class="variable">7746</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_2'}"><span class="variable">00:54</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_2'}"><span class="variable">437.7KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="3">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_3'}">4</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_3'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_3'}" data-title="列表">超级玛丽城堡声</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_3'}"><span class="constant">热度</span><span class="variable">7323</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_3'}"><span class="variable">00:08</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_3'}"><span class="variable">70.8KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="4">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_4'}">5</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_4'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_4'}" data-title="列表">超级玛丽吃蘑菇</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_4'}"><span class="constant">热度</span><span class="variable">7008</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_4'}"><span class="variable">00:01</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_4'}"><span class="variable">17.2KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="5">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_5'}">6</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_5'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_5'}" data-title="列表">超级玛丽吃金币</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_5'}"><span class="constant">热度</span><span class="variable">6967</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_5'}"><span class="variable">00:06</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_5'}"><span class="variable">56.8KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="6">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_6'}">7</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_6'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_6'}" data-title="列表">超级玛丽城堡通关</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_6'}"><span class="constant">热度</span><span class="variable">6677</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_6'}"><span class="variable">00:06</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_6'}"><span class="variable">55.9KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="7">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_7'}">8</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_7'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_7'}" data-title="列表">超级玛丽过关失败</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_7'}"><span class="constant">热度</span><span class="variable">5765</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_7'}"><span class="variable">00:03</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_7'}"><span class="variable">58.9KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="8">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_8'}">9</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_8'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_8'}" data-title="列表">超级玛丽跳跃声</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_8'}"><span class="constant">热度</span><span class="variable">5623</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_8'}"><span class="variable">00:28</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_8'}"><span class="variable">234.7KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="9">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_9'}">10</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_9'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_9'}" data-title="列表">超级玛丽之极速金币</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_9'}"><span class="constant">热度</span><span class="variable">5183</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_9'}"><span class="variable">00:45</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_9'}"><span class="variable">230.1KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="10">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_10'}">11</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_10'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_10'}" data-title="列表">超级玛丽加命音效</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_10'}"><span class="constant">热度</span><span class="variable">5148</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_10'}"><span class="variable">00:01</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_10'}"><span class="variable">24.4KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="11">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_11'}">12</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_11'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_11'}" data-title="列表">超级玛丽踩人</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_11'}"><span class="constant">热度</span><span class="variable">4637</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_11'}"><span class="variable">00:01</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_11'}"><span class="variable">8.7KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="12">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_12'}">13</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_12'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_12'}" data-title="列表">超级玛丽滴声</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_12'}"><span class="constant">热度</span><span class="variable">3874</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_12'}"><span class="variable">00:01</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_12'}"><span class="variable">24.0KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="13">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_13'}">14</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_13'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_13'}" data-title="列表">超级玛丽拉旗声</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_13'}"><span class="constant">热度</span><span class="variable">2696</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_13'}"><span class="variable">00:01</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_13'}"><span class="variable">18.7KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="14">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_14'}">15</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_14'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_14'}" data-title="列表">超级玛丽死了</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_14'}"><span class="constant">热度</span><span class="variable">2278</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_14'}"><span class="variable">00:01</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_14'}"><span class="variable">8.9KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="15">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_15'}">16</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_15'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_15'}" data-title="列表">超级玛丽生命奖励</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_15'}"><span class="constant">热度</span><span class="variable">2098</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_15'}"><span class="variable">00:01</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_15'}"><span class="variable">25.0KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                                                    <div class="item " data-id="16">
+                    <div class="num OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_num_16'}">17</div>
+                    <div class="info OP_LOG_BTN" data-click="{'act':'b_list_info_16'}" data-title="列表">
+                        <div class="title OP_LOG_BTN" data-click="{'act':'b_list_title_16'}" data-title="列表">超级玛丽顶破砖音效</div>
+                        <div class="other">
+                            <div class="hot OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_hot_16'}"><span class="constant">热度</span><span class="variable">1025</span></div>
+                            <div class="time OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_time_16'}"><span class="variable">00:01</span></div>
+                            <div class="size OP_LOG_BTN" data-title="列表" data-click="{'act':'b_list_size_16'}"><span class="variable">9.8KB</span></div>
+                        </div>
+                    </div>
+                                    </div>
+                        </div>
+                                            </div>
+        <audio id="audiobook_museum_player" preload="auto" autoplay></audio>
+    </div>
+</div>
+
+
+    </div>
+</body>
+<script>
+    require.config({
+        'baseUrl': '//mms-static.cdn.bcebos.com/voiceweb/static/asset',
+        'paths': { 'common': './common' },
+        'packages': [
+            {
+                'name': 'est',
+                'location': '../dep/est/2.0.3/asset',
+                'main': 'lib/index'
+            },
+            {
+                'name': 'etpl',
+                'location': '../dep/etpl/3.1.0/asset',
+                'main': 'main'
+            },
+            {
+                'name': 'log',
+                'location': '../dep',
+                'main': 'log'
+            }
+        ],
+        'urlArgs': 'v=20200918171358'
+    });
+
+    require(['activity/common/main'], function (main) {
+        main.enter({
+            query: '',
+            hasTongji: '1',
+            extData: {"pvid":"1601259894434250981","rqid":"1601259894434250981","qid":"1601259894434250981","psid":"0","sid":"0","baiduid":"3873C3643AA9708AC187509FE0A162FD","fr":"self","oq":"-","q":"-","cat":"soundmuseum","pid":385,"cuid":""}
+        });
+    });
+</script>
+
+<script>
+    var BoxShareData = {
+        successcallback: function(){},
+        errorcallback: function(){},
+        options: {
+            type: "url",
+            title: "有一种游戏音效叫超级玛丽",
+            content: "日常生活中有许多经典音效，影视、游戏、恐怖等等。想听都是什么样的吗？快来手机百度语音搜索试试吧~",
+            iconUrl: "http://mms-res.cdn.bcebos.com/voice/soundmuseum/e8b685e7baa7e78e9be4b8bd.bfe69165.jpg",
+            imageUrl: "http://mms-res.cdn.bcebos.com/voice/soundmuseum/e8b685e7baa7e78e9be4b8bd.bfe69165.jpg",
+            linkUrl: window.location.href,
+            mediaType: "all"
+        }
+    };
+
+    var Box;
+
+    if(Box && Box.os.name==='android' && Box.version_compare(Box.version,'6.5')<0){
+        delete BoxShareData.options.imageUrl;
+    }
+
+    define('musicList', function () {
+        return [{"hot":"9253","size":"1.0MB","time":"40","title":"\u8d85\u7ea7\u739b\u4e3d\u97f3\u6548","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6RCa0UPWZCAM9UkL0mj3BmBihtRSZVli9U0CZCB-uWkSBksRu1RenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZWs.mp3"},{"hot":"8375","size":"177.2KB","time":"11","title":"\u8d85\u7ea7\u739b\u4e3d\u8fc7\u5173","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6IXGZICq0WvW9U8quUk3uCZRuQSGZCZL9UhS0ClWuC-CBm0CZ1RenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZW8.mp3"},{"hot":"7746","size":"437.7KB","time":"54","title":"\u8d85\u7ea7\u739b\u4e3d\u7b2c\u4e8c\u5173\u97f3\u6548","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6RhLBRhwZkZb9U0GZIC3Zk-CuQRMuChq9UBG0mjIZIZSBUsYhpRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZWg.mp3"},{"hot":"7323","size":"70.8KB","time":"8","title":"\u8d85\u7ea7\u739b\u4e3d\u57ce\u5821\u58f0","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6ICL0CCwZWBQ9VsI0mk3ZksR0tRaBkP-9UnQBRVMZUnQ0kVwBpRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZUj.mp3"},{"hot":"7008","size":"17.2KB","time":"1","title":"\u8d85\u7ea7\u739b\u4e3d\u5403\u8611\u83c7","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6IgRhkha0k0G9UXGZVh3BW0WhcSWZUsa9UhahVhMZmsbBmCbZpRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZUC.mp3"},{"hot":"6967","size":"56.8KB","time":"6","title":"\u8d85\u7ea7\u739b\u4e3d\u5403\u91d1\u5e01","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6ICLhIniZUPi9UTiuUs3BU-QZcSihRZq9U8wBmCbhmlWZIjRudRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZUA.mp3"},{"hot":"6677","size":"55.9KB","time":"6","title":"\u8d85\u7ea7\u739b\u4e3d\u57ce\u5821\u901a\u5173","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6IlW0UkL0mgL9UsqBW830W-QBcRIZIAb9UAbZm0G0VZaBWAbZwRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZUA.mp3"},{"hot":"5765","size":"58.9KB","time":"3","title":"\u8d85\u7ea7\u739b\u4e3d\u8fc7\u5173\u5931\u8d25","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6I8YBWsa0ChS9UkLZVZ3hIkI0tRSZIgq9UjLBksS0CCaZVCaBpRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZUh.mp3"},{"hot":"5623","size":"234.7KB","time":"28","title":"\u8d85\u7ea7\u739b\u4e3d\u8df3\u8dc3\u58f0","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6ICR0mVwZUVR9UBQZWZ3uUkMZQSihmii9VVS0mB-0khIBIVq0pRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZUV.mp3"},{"hot":"5183","size":"230.1KB","time":"45","title":"\u8d85\u7ea7\u739b\u4e3d\u4e4b\u6781\u901f\u91d1\u5e01","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6IiQ0klCBmP-9UvG0kV3ZWCb0QRqBI-W9VPiBWiCZI-WBVVb0pRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZUs.mp3"},{"hot":"5148","size":"24.4KB","time":"1","title":"\u8d85\u7ea7\u739b\u4e3d\u52a0\u547d\u97f3\u6548","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6RZMuUPWZCsY9VCIZWk3BIASZaRbhmAq9VXQZW8wZklQBVZwZpRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZU8.mp3"},{"hot":"4637","size":"8.7KB","time":"1","title":"\u8d85\u7ea7\u739b\u4e3d\u8e29\u4eba","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6I8IuCAMhUZw9Vsw0kZ3ZV-Q0tRR0Whw9UAwBUkqBmlQhklGZwRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZUg.mp3"},{"hot":"3874","size":"24.0KB","time":"1","title":"\u8d85\u7ea7\u739b\u4e3d\u6ef4\u58f0","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6IsIhUhaZCPQ9UiGhmh3BUVLZaRL0CCq9VsbhRVYuUkLuUVqudRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZUk.mp3"},{"hot":"2696","size":"18.7KB","time":"1","title":"\u8d85\u7ea7\u739b\u4e3d\u62c9\u65d7\u58f0","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6RsIZVlW0mZY9U0GuUC30CsIZcRbuCVb9VCRBVZaBIZY0C0G0dRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZmj.mp3"},{"hot":"2278","size":"8.9KB","time":"1","title":"\u8d85\u7ea7\u739b\u4e3d\u6b7b\u4e86","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6IhqZkswhRhR9V0QuUk3BVhMucRqZIlW9UCw0mVSuWhRhICMZpRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZmC.mp3"},{"hot":"2098","size":"25.0KB","time":"1","title":"\u8d85\u7ea7\u739b\u4e3d\u751f\u547d\u5956\u52b1","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6RXi0CZahUVa9V0G0WZ3ZWiiBtRMuUvQ9VCIBIkMBWPGZIl-udRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZmA.mp3"},{"hot":"1025","size":"9.8KB","time":"1","title":"\u8d85\u7ea7\u739b\u4e3d\u9876\u7834\u7816\u97f3\u6548","url":"http:\/\/mms-res.cdn.bcebos.com\/fFhO6IviBClC0UCM9UBihUV30Uja0tRLhmAb9UlWhRZRuCsYZC-GBpRenFvkrUgquWgquQXRfFSvrUCRBm8qZWkbZmh.mp3"}]
+    });
+
+    require(['landingpage/museum/index'], function (index) {
+        index.init({
+            share: {"content":"\u65e5\u5e38\u751f\u6d3b\u4e2d\u6709\u8bb8\u591a\u7ecf\u5178\u97f3\u6548\uff0c\u5f71\u89c6\u3001\u6e38\u620f\u3001\u6050\u6016\u7b49\u7b49\u3002\u60f3\u542c\u90fd\u662f\u4ec0\u4e48\u6837\u7684\u5417\uff1f\u5feb\u6765\u624b\u673a\u767e\u5ea6\u8bed\u97f3\u641c\u7d22\u8bd5\u8bd5\u5427~","icon":"http:\/\/mms-res.cdn.bcebos.com\/voice\/soundmuseum\/e8b685e7baa7e78e9be4b8bd.bfe69165.jpg","title":"\u6709\u4e00\u79cd\u6e38\u620f\u97f3\u6548\u53eb\u8d85\u7ea7\u739b\u4e3d"},
+            btnlike: {"an":"soundlib","code":"e7adac69","url":"http:\/\/voice.baidu.com\/api\/soundlibvote","vn":"chaojimali"},
+            category: 'chaojimali',
+            musicid: '0'
+        });
+    });
+</script>
+
+</html>
+<!--14943943420344379402092810-->
+<script> var _trace_page_logid = 1494394342; </script>
