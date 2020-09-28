@@ -22,5 +22,5 @@ for url in string:
     name = "music/" + str(n).zfill(3) + ".mp3"
     print(name)
     urllib.request.urlretrieve(clr_format, name)
-    n += 1
+    n += 1   # fuck git
 

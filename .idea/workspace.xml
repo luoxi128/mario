@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ed6f410-7fa5-4d7f-a0c9-a8c610c4411d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/music/001.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/002.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/003.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/004.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/005.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/006.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/007.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/008.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/009.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/010.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/011.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/012.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/013.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/014.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/015.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/016.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/017.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mario.py" beforeDir="false" afterPath="$PROJECT_DIR$/mario.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/mario.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+              <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -71,6 +55,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,7 +67,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,7 +152,7 @@
     <entry file="file://$PROJECT_DIR$/mario.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
